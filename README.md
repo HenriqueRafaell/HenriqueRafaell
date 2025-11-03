@@ -1,78 +1,76 @@
-# 👋 Olá! Eu sou o Henrique Rafael  
+<h1 align="center">👋 Olá, eu sou o Henrique Rafael</h1>
 
-🎓 Estudante de **Engenharia de Software** na FIAP (2023–2027)  
-💡 Apaixonado por **inovação, dados e desenvolvimento full stack**  
-🚀 Buscando **estágio em desenvolvimento de software** (front-end, back-end ou dados)  
-📍 Osasco/SP – Brasil  
-
----
-
-### 🧠 Tecnologias e Ferramentas
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![FIAP](https://img.shields.io/badge/FIAP-ED145B?style=for-the-badge&logo=fiap&logoColor=white)
-
-</div>
+<p align="center">
+  🎓 Estudante de <b>Engenharia de Software</b> — FIAP (2023–2027) <br/>
+  💻 Apaixonado por tecnologia, aprendizado contínuo e desenvolvimento Full Stack
+</p>
 
 ---
 
-### 💼 Projetos em Destaque
+## 🚀 Sobre mim
+Sou um desenvolvedor em formação, sempre buscando evoluir minhas habilidades e construir soluções que façam sentido na prática.  
+Atualmente estou focado em projetos que envolvem **desenvolvimento web completo (frontend + backend)** e **integração com banco de dados**, com o objetivo de conquistar meu primeiro estágio na área de tecnologia.
 
-
-
-
-### 📚 Cursos e Certificações
-
-🎓 **FIAP**  
-- Engenharia de Software (2023–2027)  
-- Big Data, Python e Engenharia de Dados  
-- Java Development  
-
-🎓 **Alura**  
-- Python: aplicando Orientação a Objetos  
-- Praticando Python: trabalhando com projetos  
-- Praticando Python: listas e tuplas  
-- SQLite online: conhecendo instruções SQL  
-- Git e GitHub: compartilhando e colaborando em projetos  
+💡 Tenho estudado e aplicado:
+- Desenvolvimento **Front-End** com **React** e **TailwindCSS**  
+- Criação de **APIs RESTful** com **Node.js / Express**  
+- Banco de dados **MongoDB** e **PostgreSQL**  
+- Boas práticas de código, autenticação JWT e deploy na nuvem  
 
 ---
 
-### 🌐 Onde me encontrar
+## 🧱 Tecnologias & Ferramentas
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/henrique-rafael-542747269)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enriquergs13@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HenriqueRafaell)
-
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueRafaell&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRafaell&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### ✨ Curiosidade
-> “Transformando dados e código em soluções que fazem a diferença.”  
+## 💼 Projetos em destaque
 
-💬 Gosto de unir **análise de dados, design e desenvolvimento** para criar experiências digitais que realmente agregam valor.  
+### 🗂️ [TaskFlow — Gerenciador de Tarefas Full Stack](https://github.com/HenriqueRafaell/taskflow-mongo)
+Aplicação completa com autenticação JWT, CRUD de tarefas, layout moderno com Tailwind e backend conectado ao MongoDB Atlas.  
+📦 Tecnologias: **React, Node.js, Express, MongoDB, TailwindCSS**
 
 ---
 
+### 📊 Projeto 2 — (em desenvolvimento)
+🧠 Projeto voltado à área de dados (ex: análise, dashboard ou API de estatísticas).  
+📦 Tecnologias: **Python, FastAPI ou Flask, Pandas, SQLite/PostgreSQL**
+
+---
+
+### 🌐 Projeto 3 — (em desenvolvimento)
+💻 Landing page moderna com animações e integração real (ideal para destacar front-end).  
+📦 Tecnologias: **React + TailwindCSS / Framer Motion**
+
+---
+
+## 🌱 Próximos passos
+- Desenvolver novos projetos full stack para o portfólio  
+- Aprimorar deploy e integração com serviços cloud  
+- Conquistar meu primeiro estágio na área de tecnologia  
+
+---
+
+## 📫 Contato
+
+📧 **Email:** [enriquergs13@gmail.com](mailto:enriquergs13@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/henrique-rafael-542747269](https://linkedin.com/in/henrique-rafael-542747269)  
+💻 **GitHub:** [github.com/HenriqueRafaell](https://github.com/HenriqueRafaell)
+
+---
+
+<p align="center">
+  <i>"Transformando aprendizado em prática, e prática em resultados."</i> ✨
+</p>
