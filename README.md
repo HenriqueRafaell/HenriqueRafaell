@@ -27,23 +27,8 @@
 
 ### 💼 Projetos em Destaque
 
-🔹 **[Dashboard de Dados Interativo](#)**  
-Projeto individual focado em visualização de dados e relatórios dinâmicos com Python e Streamlit.  
-🛠️ *Python, Pandas, Matplotlib, Streamlit*
 
-🔹 **[SaborExpress](#)**  
-Sistema completo de cadastro de restaurantes e pedidos de comida, com CRUD e autenticação.  
-🛠️ *JavaScript, Node.js, Express, MongoDB*
 
-🔹 **[Projeto Rede Âncora](#)**  
-Aplicativo de simulação 3D para oficinas mecânicas, integrando catálogo interativo e manutenção virtual.  
-🛠️ *React, Three.js, Node.js*
-
-🔹 **[Projeto HC – Instituto da Criança e do Adolescente](#)**  
-Plataforma digital voltada à humanização do atendimento infantil.  
-🛠️ *HTML, CSS, JS, Python, UX/UI*
-
----
 
 ### 📚 Cursos e Certificações
 
