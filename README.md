@@ -1,3 +1,11 @@
+
+---
+
+## 🧩 Agora o teu README de perfil atualizado
+
+Aqui está a **nova versão**, incluindo o **NovaTech** junto dos outros dois projetos principais:
+
+```md
 <h1 align="center">👋 Olá, eu sou o Henrique Rafael</h1>
 
 <p align="center">
@@ -27,6 +35,7 @@ Atualmente estou focado em projetos que envolvem **desenvolvimento web completo 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -51,11 +60,9 @@ Dashboard de dados com gráficos dinâmicos e API em Python.
 
 ---
 
-### 🌐 Projeto 3 — (em desenvolvimento)
-💻 Landing page moderna com animações e integração real (ideal para destacar front-end).  
-📦 Tecnologias: **React + TailwindCSS / Framer Motion**
-
-
+### 🌐 [NovaTech — Landing Page Moderna](https://github.com/HenriqueRafaell/novatech-landing)
+Landing page clara e elegante com animações e formulário funcional.  
+📦 **Stack:** React, TailwindCSS, Framer Motion
 
 ---
 
