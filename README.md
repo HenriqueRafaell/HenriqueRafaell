@@ -13,8 +13,8 @@ Atualmente estou focado em projetos que envolvem **desenvolvimento web completo 
 
 💡 Tenho estudado e aplicado:
 - Desenvolvimento **Front-End** com **React** e **TailwindCSS**  
-- Criação de **APIs RESTful** com **Node.js / Express**  
-- Banco de dados **MongoDB** e **PostgreSQL**  
+- Criação de **APIs RESTful** com **Node.js / FastAPI**  
+- Banco de dados **MongoDB** e **SQLite/PostgreSQL**  
 - Boas práticas de código, autenticação JWT e deploy na nuvem  
 
 ---
@@ -28,8 +28,9 @@ Atualmente estou focado em projetos que envolvem **desenvolvimento web completo 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -39,14 +40,14 @@ Atualmente estou focado em projetos que envolvem **desenvolvimento web completo 
 ## 💼 Projetos em destaque
 
 ### 🗂️ [TaskFlow — Gerenciador de Tarefas Full Stack](https://github.com/HenriqueRafaell/taskflow-mongo)
-Aplicação completa com autenticação JWT, CRUD de tarefas, layout moderno com Tailwind e backend conectado ao MongoDB Atlas.  
-📦 Tecnologias: **React, Node.js, Express, MongoDB, TailwindCSS**
+Aplicação completa com autenticação JWT, CRUD de tarefas e layout moderno com Tailwind.  
+📦 **Stack:** React, Node.js, Express, MongoDB, TailwindCSS
 
 ---
 
-### 📊 Projeto 2 — (em desenvolvimento)
-🧠 Projeto voltado à área de dados (ex: análise, dashboard ou API de estatísticas).  
-📦 Tecnologias: **Python, FastAPI ou Flask, Pandas, SQLite/PostgreSQL**
+### 📊 [DataVision — Dashboard de Estatísticas Interativo](https://github.com/HenriqueRafaell/datavision)
+Dashboard de dados com gráficos dinâmicos e API em Python.  
+📦 **Stack:** FastAPI, SQLite, React, TailwindCSS, Recharts
 
 ---
 
