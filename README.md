@@ -55,12 +55,7 @@ Dashboard de dados com gráficos dinâmicos e API em Python.
 💻 Landing page moderna com animações e integração real (ideal para destacar front-end).  
 📦 Tecnologias: **React + TailwindCSS / Framer Motion**
 
----
 
-## 🌱 Próximos passos
-- Desenvolver novos projetos full stack para o portfólio  
-- Aprimorar deploy e integração com serviços cloud  
-- Conquistar meu primeiro estágio na área de tecnologia  
 
 ---
 
