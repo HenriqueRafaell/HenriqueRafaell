@@ -1,11 +1,5 @@
 
----
 
-## 🧩 Agora o teu README de perfil atualizado
-
-Aqui está a **nova versão**, incluindo o **NovaTech** junto dos outros dois projetos principais:
-
-```md
 <h1 align="center">👋 Olá, eu sou o Henrique Rafael</h1>
 
 <p align="center">
